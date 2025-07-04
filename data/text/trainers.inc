@@ -2471,11 +2471,11 @@ Route117_Text_DerekPostBattle:
 	.string "a Bug Maniac.$"
 
 Route117_Text_AnnaIntro:
-	.string "Anna: I'm with my pretty junior student\n"
+	.string "Anna: I'm with my cute junior student\n"
 	.string "partner. I have to do good!$"
 
 Route117_Text_AnnaDefeat:
-	.string "Anna: I'm with my pretty junior student\n"
+	.string "Anna: I'm with my cute junior student\n"
 	.string "partner! Let me win!$"
 
 Route117_Text_AnnaPostBattle:
@@ -2492,7 +2492,7 @@ Route117_Text_AnnaNotEnoughMons:
 	.string "bring two Pokémon with you.$"
 
 Route117_Text_MegIntro:
-	.string "Meg: I'm going to tag up with my super\n"
+	.string "Meg: I'm going to tag up with my pretty\n"
 	.string "senior student partner and beat you!$"
 
 Route117_Text_MegDefeat:
@@ -2510,7 +2510,7 @@ Route117_Text_MegNotEnoughMons:
 
 Route117_Text_AnnaRematchIntro:
 	.string "Anna: I can't keep losing in front of\n"
-	.string "my junior partner, right?$"
+	.string "my lovely girlfriend, right?$"
 
 Route117_Text_AnnaRematchDefeat:
 	.string "Anna: I couldn't get into the groove.$"
@@ -2518,23 +2518,25 @@ Route117_Text_AnnaRematchDefeat:
 Route117_Text_AnnaPostRematch:
 	.string "Anna: Your Pokémon have some good\n"
 	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "I'd say you're second only to us!/l"
+	.string "We're like chocolate and peanut butter.$"
 
 Route117_Text_AnnaRematchNotEnoughMons:
 	.string "Anna: If you want to battle us,\n"
 	.string "bring two Pokémon with you.$"
 
 Route117_Text_MegRematchIntro:
-	.string "Meg: I'm going to tag up with my\n"
-	.string "senior partner and win this time!$"
+	.string "Meg: I'm going to win with my\n"
+	.string "beautiful girlfriend this time!$"
 
 Route117_Text_MegRematchDefeat:
 	.string "Meg: Too strong!$"
 
 Route117_Text_MegPostRematch:
 	.string "Meg: I battled together with my\n"
-	.string "senior partner, but we lost…\p"
-	.string "That's so discouraging…$"
+	.string "girlfriend, but we lost…\p"
+	.string "That's so discouraging…\l"
+	.string "At least I have my Anna…$"
 
 Route117_Text_MegRematchNotEnoughMons:
 	.string "Meg: Do you only have one Pokémon?\n"

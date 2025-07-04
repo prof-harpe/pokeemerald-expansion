@@ -5392,7 +5392,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANNA_AND_MEG_2 ===
 Name: Anna & Meg
-Class: Sr And Jr
+Class: Young Couple
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5416,7 +5416,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ANNA_AND_MEG_3 ===
 Name: Anna & Meg
-Class: Sr And Jr
+Class: Young Couple
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5440,7 +5440,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ANNA_AND_MEG_4 ===
 Name: Anna & Meg
-Class: Sr And Jr
+Class: Young Couple
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -5464,7 +5464,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ANNA_AND_MEG_5 ===
 Name: Anna & Meg
-Class: Sr And Jr
+Class: Young Couple
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
@@ -6251,49 +6251,57 @@ Double Battle: No
 AI: Basic Trainer
 Mugshot: Yellow
 
-Wailord
+Henry (Wailord) (M)
 Level: 57
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Heavy Ball
 - Rain Dance
 - Water Spout
 - Double Edge
 - Blizzard
 
-Tentacruel
+William (Tentacruel) (F)
 Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Great Ball
 - Toxic
 - Hydro Pump
 - Sludge Bomb
 - Ice Beam
 
-Ludicolo
+Arthur (Ludicolo) (M)
 Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Nest Ball
 - Giga Drain
 - Surf
 - Leech Seed
 - Double Team
 
-Whiscash
+Phillip (Whiscash) (M)
 Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Quick Ball
 - Earthquake
 - Surf
 - Amnesia
 - Hyper Beam
 
-Gyarados
+Victoria (Gyarados) (M)
 Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Park Ball
+Shiny: Yes
 - Dragon Dance
 - Earthquake
 - Hyper Beam
 - Surf
 
-Milotic @ Sitrus Berry
+Diana (Milotic) (F) @ Sitrus Berry
 Level: 58
+Ability: Marvel Scale
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Dream Ball
 - Recover
 - Surf
 - Ice Beam
@@ -9451,56 +9459,6 @@ Shiftry
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_WALLY_VR_1 ===
-Name: Wally
-Class: Rival
-Pic: Wally
-Gender: Male
-Music: Male
-Items: Full Restore / Full Restore
-Double Battle: No
-AI: Basic Trainer
-
-Altaria
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
-
-Delcatty
-Level: 43
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
-
-Roselia
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
-
-Magneton
-Level: 41
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
-
-Gardevoir
-Level: 45
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
-
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
 Name: Brendan
 Class: Rival
@@ -12041,9 +11999,59 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Ralts
+Riri (Ralts) (M)
 Level: 16
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
+=== TRAINER_WALLY_VR_1 ===
+Name: Wally
+Class: Rival
+Pic: Wally
+Gender: Male
+Music: Male
+Items: Full Restore / Full Restore
+Double Battle: No
+AI: Basic Trainer
+
+Altaria
+Level: 44
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+- Aerial Ace
+- Safeguard
+- Dragon Breath
+- Dragon Dance
+
+Delcatty
+Level: 43
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+- Sing
+- Assist
+- Charm
+- Feint Attack
+
+Roselia
+Level: 44
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+- Magical Leaf
+- Leech Seed
+- Giga Drain
+- Toxic
+
+Magneton
+Level: 41
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+- Supersonic
+- Thunderbolt
+- Tri Attack
+- Screech
+
+Riri (Gardevoir) (M)
+Level: 45
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Double Team
+- Calm Mind
+- Psychic
+- Future Sight
 
 === TRAINER_WALLY_VR_2 ===
 Name: Wally
@@ -12087,7 +12095,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Riri (Gardevoir) (M)
 Level: 48
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12137,7 +12145,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Riri (Gardevoir) (M)
 Level: 51
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12187,7 +12195,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Riri (Gardevoir) (M)
 Level: 54
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12237,7 +12245,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Riri (Gardevoir) (M)
 Level: 57
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -13255,15 +13263,15 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
+Alpha (Zigzagoon)
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Aron
+Bravo (Aron)
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Electrike
+Tango (Electrike)
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -15863,49 +15871,55 @@ Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Skarmory
+Feldspar (Skarmory)
 Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Toxic
 - Aerial Ace
 - Spikes
 - Steel Wing
 
-Claydol
+Chert (Claydol)
 Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Reflect
 - Light Screen
 - Ancient Power
 - Earthquake
 
-Aggron
+Riebeck (Aggron)
 Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Thunder
 - Earthquake
 - Solar Beam
 - Dragon Claw
 
-Cradily
+Gabbro (Cradily)
 Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Giga Drain
 - Ancient Power
 - Ingrain
 - Confuse Ray
 
-Armaldo
+Esker (Armaldo)
 Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Water Pulse
 - Ancient Power
 - Aerial Ace
 - Slash
 
-Metagross @ Sitrus Berry
+Solanum (Metagross) @ Sitrus Berry
 Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master Ball
 - Earthquake
 - Psychic
 - Meteor Mash
