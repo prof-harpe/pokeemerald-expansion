@@ -50,3 +50,4 @@ __pycache__
 *.xlsx
 *.bak
 *.xcf
+include/config/
