@@ -102,13 +102,13 @@ MeteorFalls_1F_2R_Text_JohnIntro:
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
 	.string "John: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "We've lost, my bluejay.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
 	.string "John: We've been married for\n"
 	.string "fifty years.\p"
 	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.string "my husband in a battle.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
 	.string "John: Well, well, what a young Trainer!\p"
@@ -127,7 +127,7 @@ MeteorFalls_1F_2R_Text_JayIntro:
 
 MeteorFalls_1F_2R_Text_JayDefeat:
 	.string "Jay: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "We've lost, my Johnny-do.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
 	.string "Jay: Fifty years of marriage…\p"
@@ -147,12 +147,12 @@ MeteorFalls_1F_2R_Text_JohnRematchIntro:
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
 	.string "John: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "We've lost again, my bluejay.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
 	.string "John: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "On reflection, my bluejay and I,\n"
+	.string "we've battled day in and day out…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
 	.string "John: Well, well, what a young Trainer!\p"
@@ -167,7 +167,7 @@ MeteorFalls_1F_2R_Text_JayRematchIntro:
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
 	.string "Jay: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "We've lost, my Johnny-do.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
 	.string "Jay: Fifty years of marriage…\n"
