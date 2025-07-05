@@ -50,5 +50,3 @@ __pycache__
 *.xlsx
 *.bak
 *.xcf
-include/config/*.h
-/include/config/battle.h
